@@ -71,12 +71,6 @@ I enjoy learning by **building, experimenting, collaborating, and improving**.
 
 ## 🚀 Featured Project
 
-<a href="https://github.com/Rushd-7/NER_Scale">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rushd-7&repo=NER_Scale&theme=transparent&hide_border=true" />
-
-</a>
-
 <br>
 
 ### 🏆 NER-Scale
@@ -90,10 +84,12 @@ I'm contributing to the project as a **team member**, working alongside my teamm
 <br>
 
 <a href="https://github.com/Rushd-7/NER_Scale">
-  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔗%20View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
+
+
 
 ---
 
@@ -126,7 +122,6 @@ I'm contributing to the project as a **team member**, working alongside my teamm
 </div>
 
 ---
-
 <div align="center">
 
 ## 📊 GitHub Analytics
@@ -135,21 +130,15 @@ I'm contributing to the project as a **team member**, working alongside my teamm
 
 <a href="https://github.com/goswami-aryan">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goswami-aryan&theme=transparent&hide_border=true" />
-
-</a>
-
-<br><br>
-
-### 📈 My GitHub Contributions
-
-<a href="https://github.com/goswami-aryan">
-
-<img src="https://ghchart.rshah.org/goswami-aryan" alt="Aryan's GitHub Contribution Graph" />
+<img
+  src="https://streak-stats.demolab.com/?user=goswami-aryan&theme=transparent&hide_border=true&timezone=Asia%2FKolkata"
+  alt="GitHub Streak"
+/>
 
 </a>
 
 </div>
+
 
 ---
 
